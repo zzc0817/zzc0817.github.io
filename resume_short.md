@@ -1,5 +1,6 @@
 Resume (Zhichao Zhao)
 ============
+
 Personal Information
 --------------------
 Name: Zhichao Zhao
