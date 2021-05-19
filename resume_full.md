@@ -13,31 +13,21 @@ Place of Birth: Shenyang, China
 
 Home Address: 942 Aster CT, Sunnyvale, CA 94086
 
-Phone: 1-650-314-1248, 1-415-949-1264
+Phone: 1-6503141248, 1-4159491264
 
-Email (Work): zczhao@google.com
-
-Email (Personal) zzc0817@gmail.com
-
-Github: https://github.com/zzc0817
-
-Linkedin: https://www.linkedin.com/in/zzc0817
-
-Facebook: https://www.facebook.com/zhichao.zhao
+Email: zzc0817@gmail.com, zczhao@google.com
 
 Education
 ---------
 2012.09 - 2016.08\
 **Ph.D, Computer Science**. The University of Hong Kong, Hong Kong\
 Website: https://www.hku.hk \
-Field of Study: Theory\
 Research Topics: Complexity Theroy, Approximation Algorithms, Zero-knowledge Proof, Bitcoin.\
 Thesis: Private, Secure and Truthful Multi-party Protocols.
 
 2008.09 - 2012.06\
 **Bachelor, Software Engineering**. Jilin University, China\
-Website: https://www.jlu.edu.cn \
-Overall GPA: 3.44/4.00; Rank: 17/279
+Website: https://www.jlu.edu.cn
 
 
 Employment
@@ -116,6 +106,9 @@ Inf. Syst. 65: 93-105 (2017)
 
 Travel History
 --------------
-US: 2018-2021; a few business trips in 2016 and 2017\
+US: 2016;2017;2018-2021\
 Hong Kong: 2012-2016\
-**TODO**
+Japan: 2016\
+Macau: 2016\
+South Korea: 2016\
+Taiwan: 2016;2018
