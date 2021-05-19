@@ -3,67 +3,52 @@ Resume - Zhichao Zhao
 
 Personal Information
 --------------------
-Name: Zhichao Zhao (赵智超)
-
-Gender: Male
-
-Date of Birth: 10/05/1988
-
-Place of Birth: Shenyang, China
-
-Home Address: 942 Aster CT, Sunnyvale, CA 94086
-
-Phone: 1-6503141248, 1-4159491264
-
+Name: Zhichao Zhao (赵智超)\
+Gender: Male\
+Date of Birth: 10/05/1988 \
+Place of Birth: Shenyang, China\
+Home Address: 942 Aster CT, Sunnyvale, CA 94086\
+Phone: 1-6503141248, 1-4159491264\
 Email: zzc0817@gmail.com, zczhao@google.com
 
 Education
 ---------
-2012.09 - 2016.08\
-**Ph.D, Computer Science**. The University of Hong Kong, Hong Kong\
-Website: https://www.hku.hk \
-Research Topics: Complexity Theroy, Approximation Algorithms, Zero-knowledge Proof, Bitcoin.\
+* 2012.09 - 2016.08\
+**Ph.D, Computer Science**\
+The University of Hong Kong, Hong Kong\
+Research Topics: Complexity Theroy, Approximation Algorithms, Zero-knowledge Proof.\
 Thesis: Private, Secure and Truthful Multi-party Protocols.
 
-2008.09 - 2012.06\
-**Bachelor, Software Engineering**. Jilin University, China\
-Website: https://www.jlu.edu.cn
-
+* 2008.09 - 2012.06\
+**Bachelor, Software Engineering**\
+Jilin University, China
 
 Employment
 ----------
-2020.04 - present\
+* 2020.04 - present\
 **Waymo LLC**\
 Address: 1600 Amphitheatre Parkway Mountain View, CA 94043\
-Website: https://waymo.com \
 Job Title: **Software Engineer**\
 Duties:
+  * Develop software and tools to simulate Waymo's (software) driver using Google's infrastructure.
+  * Develop and maintain several systems to make simulation tools accessible from the web.
+  * Improve efficiency of Waymo simulation software.
 
-    * Develop software and tools to simulate Waymo's (software) driver using Google's infrastructure.
-    
-    * Develop and maintain several systems to make simulation tools accessible from the web.
-    
-    * Improve efficiency of Waymo simulation software.
-
-2018.04 - 2020.04 (location transfer from previous work)\
+* 2018.04 - 2020.04 (location transfer from previous work)\
 **Google LLC**\
 Address: 1600 Amphitheatre Parkway Mountain View, CA 94043\
 *See below for duties, etc.*
 
-2016.08 - 2018.04\
+* 2016.08 - 2018.04\
 **Google (Beijing)** \
 Address: 6th Floor, Tower B, Raycom InfoTech Park, No. 2 Kexueyuan South Road, Zhongguancun, Beijing, China\
-Website: https://www.google.com \
 Job Title: **Software Engineer**\
 Duties:
-
-    * Develop, improve and maintain several offline access points for the Knowledge Graph.
-
-    * Livegraph - KG Snapshots and Dremelization pipelines.
-      Generates different views of the Knowledge Graph for offline access and human analysis.
-      Powered several downstream pipelines, which are served in the Google Search.
-
-    * Livegraph KG-Batch. Audited interface for accessing restricted data in the Knowledge Graph.
+  * Develop, improve and maintain several offline access points for the Knowledge Graph.
+  * Livegraph - KG Snapshots and Dremelization pipelines.
+    Generates different views of the Knowledge Graph for offline access and human analysis.
+    Powered several downstream pipelines, which are served in the Google Search.
+  * Livegraph KG-Batch. Audited interface for accessing restricted data in the Knowledge Graph.
 
 Technical Skills
 ----------------
@@ -106,9 +91,9 @@ Inf. Syst. 65: 93-105 (2017)
 
 Travel History
 --------------
-US: 2016;2017;2018-2021\
-Hong Kong: 2012-2016\
-Japan: 2016\
-Macau: 2016\
-South Korea: 2016\
-Taiwan: 2016;2018
+* US: 2016; 2017; 2018-2021
+* Hong Kong: 2012-2016
+* Japan: 2016
+* Macau: 2016
+* South Korea: 2016
+* Taiwan: 2016;2018
