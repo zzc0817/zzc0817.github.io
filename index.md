@@ -1,4 +1,4 @@
 # My Homepage
 
 - [My Resume](resume.md)
-- [My Resume (short)](resume_short.md)
+- [My Resume (full)](resume_full.md)
