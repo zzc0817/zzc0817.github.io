@@ -32,7 +32,6 @@ Job Title: **Software Engineer**\
 Duties:
   * Develop software and tools to simulate Waymo's (software) driver using Google's infrastructure.
   * Develop and maintain several systems to make simulation tools accessible from the web.
-  * Improve efficiency of Waymo simulation software.
 
 * 2018.04 - 2020.04 (location transfer from previous work)\
 **Google LLC**\
@@ -44,11 +43,8 @@ Address: 1600 Amphitheatre Parkway Mountain View, CA 94043\
 Address: 6th Floor, Tower B, Raycom InfoTech Park, No. 2 Kexueyuan South Road, Zhongguancun, Beijing, China\
 Job Title: **Software Engineer**\
 Duties:
-  * Develop, improve and maintain several offline access points for the Knowledge Graph.
-  * Livegraph - KG Snapshots and Dremelization pipelines.
-    Generates different views of the Knowledge Graph for offline access and human analysis.
-    Powered several downstream pipelines, which are served in the Google Search.
-  * Livegraph KG-Batch. Audited interface for accessing restricted data in the Knowledge Graph.
+  * Develop, improve and maintain software and tools used for the Knowledge Graph.
+  * Maintain and improve the Livegraph export pipeline, which generates different views of the Knowledge Graph for offline access.
 
 Technical Skills
 ----------------
