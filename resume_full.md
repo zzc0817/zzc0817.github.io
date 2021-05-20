@@ -92,4 +92,6 @@ Travel History
 * Japan: 2016
 * Macau: 2016
 * South Korea: 2016
-* Taiwan: 2016;2018
+* Taiwan: 2016; 2018
+* Vietnam: 2013
+* Indonesia: 2012
