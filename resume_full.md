@@ -95,3 +95,8 @@ Travel History
 * Taiwan: 2016; 2018
 * Vietnam: 2013
 * Indonesia: 2012
+
+Travelling With
+---------------
+* Xingmin Cui (my wife)
+* Luke Qixuan Zhao (my son, US citizen, 10-month old)
