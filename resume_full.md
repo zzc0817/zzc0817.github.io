@@ -29,20 +29,20 @@ Employment
 **Waymo LLC**\
 Address: 1600 Amphitheatre Parkway Mountain View, CA 94043\
 Job Title: **Software Engineer**\
-Duties:
+Job Duties:
   * Develop software and tools to simulate Waymo's (software) driver using Google's infrastructure.
   * Develop and maintain several systems to make simulation tools accessible from the web.
 
 * 2018.04 - 2020.04 (location transfer from previous work)\
 **Google LLC**\
 Address: 1600 Amphitheatre Parkway Mountain View, CA 94043\
-*See below for duties, etc.*
+*See below for job title and job duties.*
 
 * 2016.08 - 2018.04\
 **Google (Beijing)** \
 Address: 6th Floor, Tower B, Raycom InfoTech Park, No. 2 Kexueyuan South Road, Zhongguancun, Beijing, China\
 Job Title: **Software Engineer**\
-Duties:
+Job Duties:
   * Develop, improve and maintain software and tools used for the Knowledge Graph.
   * Maintain and improve the Livegraph export pipeline, which generates different views of the Knowledge Graph for offline access.
 
@@ -87,14 +87,14 @@ Inf. Syst. 65: 93-105 (2017)
 
 Travel History
 --------------
-* US: 2016; 2017; 2018-2021
-* Hong Kong: 2012-2016
-* Japan: 2016
-* Macau: 2016
-* South Korea: 2016
-* Taiwan: 2016; 2018
-* Vietnam: 2013
-* Indonesia: 2012
+* United States (2016, 2017, 2018-2021)
+* Hong Kong (2012-2016)
+* Japan (2016)
+* Macau (2016)
+* South Korea (2016)
+* Taiwan (2016, 2018)
+* Vietnam (2013)
+* Indonesia (2012)
 
 Travelling With
 ---------------
